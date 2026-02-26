@@ -34,7 +34,7 @@ Ce jeu reprend le principe classique du Whac-a-Mole :
 
 ### Étapes
 1. **Cloner le repository**
-   ```bash (https://github.com/Oumaiematyyy/WhacAMoleApp)
+   https://github.com/Oumaiematyyy/WhacAMoleApp
    
 2. Ouvrir le projet dans ton IDE préféré
 Si tu utilises IntelliJ : File → Open → sélectionne le dossier du projet
