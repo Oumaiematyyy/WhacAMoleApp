@@ -34,12 +34,13 @@ Ce jeu reprend le principe classique du Whac-a-Mole :
 
 ### Étapes
 1. **Cloner le repository**
+   ```bash
    https://github.com/Oumaiematyyy/WhacAMoleApp
    
-2. Ouvrir le projet dans ton IDE préféré
+3. Ouvrir le projet dans ton IDE préféré
 Si tu utilises IntelliJ : File → Open → sélectionne le dossier du projet
 
-3. Compiler et exécuter la classe WhacAMole.java
+4. Compiler et exécuter la classe WhacAMole.java
 Dans IntelliJ : clique droit sur WhacAMole.java → Run
 
 
